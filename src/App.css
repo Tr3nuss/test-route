@@ -1,0 +1,15 @@
+* {
+  text-decoration: none;
+  color: green;
+}
+
+.active {
+  color: pink;
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.active-nav-link {
+  color: blueviolet;
+  font-size: 50px;
+}
